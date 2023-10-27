@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shipper App</string>
+    <string name="main_app_name">Sobjiwala</string>
+
+    <string name="currency_sign">৳</string>
+    <string name="admin_user_email">sobjiwala.com.bd@gmail.com</string>
+    <string name="admin_user_email_password">TUF115348@swala</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+    <color name="bg_row_background">#fa315b</color>
+
+    <color name="overlayBackground">#97333639</color>
+
+
+    <color name="discount_color">#fe5722</color>
+
+    <color name="colorPrimary1">#fe5722</color>
+    <color name="colorPrimaryDark1">#fe5722</color>
+    <color name="colorAccent1">#fe5722</color>
+    <color name="colorAndroidHive">#ffe01b</color>
+    <color name="toastMessageColor">#000000</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="hint_label">#fff</color>
+    <color name="green_color">#20ab2c</color>
+    <color name="button_bg">#e5293e</color>
+    <color name="colorLightRed">#ffcccb</color>
+    <color name="colorText_gray">#AFAFAF</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+
+    <color name="grey_color">#D4D4D4</color>
+
+
+    <color name="colorPrimary2">#33b671</color>
+    <color name="colorPrimaryDark2">#319761</color>
+    <color name="colorAccent2">#fff</color>
+    <color name="colorAccent3">#a1a1a1</color>
+
+    //red color for java icon
+    <color name="colorPrimaryRed">#e64c3c</color>
+    <color name="colorPrimaryRedDark">#bc4438</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <color name="title_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+</resources>

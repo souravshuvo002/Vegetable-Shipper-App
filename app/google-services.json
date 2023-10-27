@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "942294790688",
+    "firebase_url": "https://vegetables-mysql.firebaseio.com",
+    "project_id": "vegetables-mysql",
+    "storage_bucket": "vegetables-mysql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942294790688:android:cb2452a00d8e4c18894245",
+        "android_client_info": {
+          "package_name": "com.sourav.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942294790688-ji984rhmqiliesk50up4thk73tsajuh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourav.adminapp",
+            "certificate_hash": "6007d9baf5e1db6c66fd7c4c6cde962793c4afa2"
+          }
+        },
+        {
+          "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_pSgOKXgxfJ6k6JPkl5bmlgivPIQ-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942294790688:android:06b1d63cbd98687c894245",
+        "android_client_info": {
+          "package_name": "com.sourav.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942294790688-dmhjhao3jtjmcg9ghtqau81s58cipuha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourav.deliveryapp",
+            "certificate_hash": "6007d9baf5e1db6c66fd7c4c6cde962793c4afa2"
+          }
+        },
+        {
+          "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_pSgOKXgxfJ6k6JPkl5bmlgivPIQ-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942294790688:android:154614e33c4abbdd894245",
+        "android_client_info": {
+          "package_name": "com.sourav.vegetables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942294790688-ivq86p32vf732j4mhaj4k7omj900n7nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourav.vegetables",
+            "certificate_hash": "6007d9baf5e1db6c66fd7c4c6cde962793c4afa2"
+          }
+        },
+        {
+          "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_pSgOKXgxfJ6k6JPkl5bmlgivPIQ-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942294790688-vkl1jk0l9n6t2uuu10hs5v9v1lfd93hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
